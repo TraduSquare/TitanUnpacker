@@ -1,0 +1,3 @@
+Folder1\name1\test.txt
+Folder1\name1\test2.png
+Folder1\name1\test3.g1t
